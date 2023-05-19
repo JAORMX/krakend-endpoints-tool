@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/gookit/color v1.5.3
 	github.com/spf13/cobra v1.7.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 	github.com/xeipuuv/gojsonschema v1.2.0
 )
 
