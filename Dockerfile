@@ -1,4 +1,4 @@
-FROM cgr.dev/chainguard/go:1.20 as build-env
+FROM cgr.dev/chainguard/go:1.21 as build-env
 
 WORKDIR /go/src/krakend-endpoints-tool
 
